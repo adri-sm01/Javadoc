@@ -1,5 +1,8 @@
 package FiguraPlana;
 import java.io.*;
+/**
+ * Esta Clase testea el objeto FiguraPlana y sus 
+ * */
 class TestFiguraPlana
 {
 	public static void main(String args[])
