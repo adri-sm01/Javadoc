@@ -4,7 +4,7 @@ package FiguraPlana;
 * y calcula su area. 
 * @author: Adrian Suaza
 * @version: 20/12/2019/A
-* @see <a href = "https://aulavirtual33.educa.madrid.org/ies.goya.madrid/pluginfile.php/10924/mod_resource/content/0/JavaDoc.pdf" /> Documentacion de Javadoc </a>
+* @see <a href = "https://github.com/adri-sm01/Javadoc" /> Enlace al repositiorio Git </a>
 */
 class Rectangulo extends FiguraPlana
 {
