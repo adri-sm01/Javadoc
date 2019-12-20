@@ -4,7 +4,7 @@ package FiguraPlana;
 * y calcula su area. 
 * @author: Adrian Suaza
 * @version: 20/12/2019/A
-* @see <a href = "http://www.aprenderaprogramar.com" /> aprenderaprogramar.com – Didáctica en programación </a>
+* @see <a href = "https://aulavirtual33.educa.madrid.org/ies.goya.madrid/pluginfile.php/10924/mod_resource/content/0/JavaDoc.pdf" /> Documentacion de Javadoc </a>
 */
 
 class Triangulo extends FiguraPlana
