@@ -7,6 +7,7 @@ import java.io.*;
 * @version: 20/12/2019/A
 * @see <a href = "https://github.com/adri-sm01/Javadoc" /> Enlace al repositiorio Git </a>
 */
+@SuppressWarnings("unused")
 class TestFiguraPlana
 {
 	/**
